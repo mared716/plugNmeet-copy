@@ -2,7 +2,7 @@
 title: Create Poll API | plugNmeet API Reference
 description: API endpoint documentation for pushing a poll into a live video conference room from an external application. Learn how to create polls, quizzes, and anonymous votes in an active session.
 keywords: [api, create poll, poll, quiz, voting, survey, room api, video api, endpoint]
-sidebar_position: 10
+sidebar_position: 9
 sidebar_label: Create Poll
 ---
 

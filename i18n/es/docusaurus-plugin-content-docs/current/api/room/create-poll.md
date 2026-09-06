@@ -2,7 +2,7 @@
 title: API para Crear Encuestas | Referencia de la API de plugNmeet
 description: Documentación del punto final de la API para enviar una encuesta a una sala de videoconferencia en vivo desde una aplicación externa. Aprenda a crear encuestas, cuestionarios y votaciones anónimas en una sesión activa.
 keywords: [api, crear encuesta, encuesta, cuestionario, votación, sondeo, api de sala, api de video, endpoint]
-sidebar_position: 10
+sidebar_position: 9
 sidebar_label: Crear Encuesta
 ---
 

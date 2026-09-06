@@ -2,7 +2,7 @@
 title: API para Finalizar una Sala | Referencia de la API de plugNmeet
 description: Documentación del endpoint de la API para forzar la finalización de una sala de videoconferencia activa y desconectar a todos los participantes.
 keywords: [api, finalizar sala, cerrar sala, terminar reunión, api de sala, endpoint]
-sidebar_position: 9
+sidebar_position: 20
 sidebar_label: Finalizar
 ---
 
